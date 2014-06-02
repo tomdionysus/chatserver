@@ -1,0 +1,1 @@
+#define CHATSERVER_PORT 1024
