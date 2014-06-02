@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc --ansi src/*.c -o bin/chatserver
